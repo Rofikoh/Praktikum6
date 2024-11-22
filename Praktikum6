@@ -31,4 +31,5 @@ def tampilkan_data(data):
 
 if __name__ == "__main__":
     data_mahasiswa = tambah_data()
-    tampilkan_data(data_mahasiswa) 
+    tampilkan_data(data_mahasiswa)
+
